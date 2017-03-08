@@ -1,0 +1,15 @@
+"D:\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\Embedded Workbench 7.5\arm\bin\armstlink2.dll" 
+
+"C:\Users\zhaojuntao.TKRE\Desktop\STM32F722-Nucleo CoreMark\STM32F722-Nucleo CoreMark\EWARM\STM32F722-Nucleo CoreMark\Exe\STM32F722-Nucleo CoreMark.out" 
+
+--plugin "D:\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\ST\STM32F7xx.dmac" 
+
+--flash_loader "D:\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\ST\FlashSTM32F72xxE.board" 
+
+
+
+
